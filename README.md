@@ -1,4 +1,4 @@
-## Independent Trader
+## Independent Systmatic Trader
 
 <!--
 **dybrkr/dybrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
